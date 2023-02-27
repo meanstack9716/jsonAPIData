@@ -21,6 +21,9 @@
     "category": {
       "string": ["one", "two", "three"]
     },
+    "hashtag": {
+      "string": ["vue", "react", "node"]
+    },
     "isDraft": {
       "boolean": {}
     },
