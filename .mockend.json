@@ -22,7 +22,7 @@
       "string": ["one", "two", "three"]
     },
     "hashtag": {
-      "array": ["vue", "react", "node"]
+      "string": ["vue", "react", "node"]
     },
     "isDraft": {
       "boolean": {}
